@@ -1,1 +1,1 @@
-Project for Mass Mutual
+Front end built on React
